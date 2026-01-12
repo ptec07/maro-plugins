@@ -6,8 +6,8 @@
   },
   "plugins": [
     {
-      "name": "google-calendar",
-      "source": "./plugins/google-calendar",
+      "name": "maro-google-calendar",
+      "source": "./plugins/maro-google-calendar",
       "description": "구글 캘린더 일정관리",
       "version": "1.0.0"
     }

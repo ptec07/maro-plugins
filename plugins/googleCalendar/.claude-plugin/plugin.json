@@ -1,5 +1,5 @@
 {
-  "name": "google-calendar",
+  "name": "maro-google-calendar",
   "description": "MCP server for natural language Google Calendar control",
   "version": "1.0.0",
   "author": {
