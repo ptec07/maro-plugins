@@ -1,0 +1,15 @@
+{
+  "name": "maro-plugins",
+  "owner": {
+    "name": "mingyu oh",
+    "email": "ptec07@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "google-calendar",
+      "source": "./plugins/google-calendar",
+      "description": "구글 캘린더 일정관리",
+      "version": "1.0.0"
+    }
+  ]
+}

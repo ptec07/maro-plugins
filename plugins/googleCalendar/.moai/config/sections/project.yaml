@@ -1,0 +1,9 @@
+project:
+  name: googleCalendar
+  description: ''
+  type: ''
+  locale: '{{LOCALE}}'
+  created_at: '2026-01-12T15:02:49.623760Z'
+  initialized: 'true'
+github:
+  profile_name: ''
